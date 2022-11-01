@@ -6,7 +6,7 @@ import HandlingFile.FileHandling;
 import java.io.IOException;
 
 public class CezarCod {
-    private static String fileName = "message.txt";
+    private static final String fileName = "message.txt";
 
     public static void main(String[] args) throws IOException {
 
